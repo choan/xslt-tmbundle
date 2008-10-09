@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;xsl:call-template name="$1"/&gt;</string>
+	<key>name</key>
+	<string>xsl:call/</string>
+	<key>scope</key>
+	<string>text.xml</string>
+	<key>tabTrigger</key>
+	<string>call.</string>
+	<key>uuid</key>
+	<string>BE137BC4-E030-4369-A5A2-24AE9B5DFBDC</string>
+</dict>
+</plist>
