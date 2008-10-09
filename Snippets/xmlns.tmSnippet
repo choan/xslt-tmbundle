@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>xmlns:$1="$2"</string>
 	<key>name</key>
-	<string>xmlns</string>
+	<string>xmlns:</string>
 	<key>scope</key>
 	<string>text.xml</string>
 	<key>tabTrigger</key>

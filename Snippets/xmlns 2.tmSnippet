@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;xsl:${1:template}${2: ${3:match}="$4"}&gt;
-	$0
-&lt;/xsl:${1/([a-z\-]*).*/$1/}&gt;</string>
+	<string>xmlns="$2"</string>
 	<key>name</key>
-	<string>xsl:</string>
+	<string>xmlns</string>
 	<key>scope</key>
 	<string>text.xml</string>
 	<key>tabTrigger</key>
-	<string>x</string>
+	<string>ns</string>
 	<key>uuid</key>
-	<string>2DC33268-5104-46ED-BA04-2463EA70160B</string>
+	<string>F20B41CA-3C39-4C6C-B78F-767862C7ADB3</string>
 </dict>
 </plist>
